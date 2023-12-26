@@ -20,7 +20,7 @@
     },
     {
       "question": "What's the name of the syntax we use to describe the UI in React components?",
-      "options": ["FBJ", "Babel", "JSX", "ES2015"],
+      "options": ["htmx", "Babel", "JSX", "ES2015"],
       "correctOption": 2,
       "points": 10
     },
